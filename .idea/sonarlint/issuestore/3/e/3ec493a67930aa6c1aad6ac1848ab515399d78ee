@@ -1,0 +1,17 @@
+
+lsquid:UselessImportCheck%"<Remove this unused import 'io.reactivex.functions.Consumer'.(áè—Õüÿÿÿÿ8‚çç‹.
+Fsquid:S1604G"(Make this anonymous inner class a lambda(Ê²›ê8ð®æ‹.
+~squid:S1450-"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8´¾ä‹‹.
+Msquid:S19059"*Remove this unnecessary cast to "Toolbar".(ªü–ýÿÿÿÿ8€Ý×Œ‹.
+ysquid:UselessImportCheck""NRemove this unused import 'io.reactivex.android.schedulers.AndroidSchedulers'.(¶çþ 8„çî‹.
+jsquid:UselessImportCheck"?Remove this unused import 'android.arch.persistence.room.Room'.(êÌ¿æ8ŸÀ¡‹.
+Tsquid:S1905P"7Remove this unnecessary cast to "FloatingActionButton".(–“€G8€Ý×Œ‹.
+Zsquid:S10680"7Remove this unused "compositeDisposable" private field.(ÖáÁÉüÿÿÿÿ8³¼ó‹.
+Zsquid:S1068/"7Remove this unused "contactsAppDatabase" private field.(˜†çæüÿÿÿÿ8„çî‹.
+_squid:UselessImportCheck!"5Remove this unused import 'io.reactivex.Completable'.(Ë‰ÂF8„çî‹.
+osquid:UselessImportCheck'"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢Žúÿÿÿÿ8„çî‹.
+¥squid:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÐÇÉýÿÿÿÿ8€Ý×Œ‹.
+Osquid:S10683"1Remove this unused "rowIdInserted" private field.(ª¼¢æ8„çî‹.
+squid:UselessImportCheck&"QRemove this unused import 'io.reactivex.observers.DisposableCompletableObserver'.(’„†üÿÿÿÿ8„çî‹.
+msquid:UselessImportCheck"=Remove this unused import 'android.arch.lifecycle.ViewModel'.(£‹¨òÿÿÿÿÿ8­Íâ‹.
+esquid:UselessImportCheck$":Remove this unused import 'io.reactivex.functions.Action'.(¨•ê¯8„çî‹.
